@@ -1,0 +1,2 @@
+# ClickAccademy
+For online school
