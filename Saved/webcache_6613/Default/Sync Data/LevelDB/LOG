@@ -1,2 +1,3 @@
-2026/02/20-10:57:46.604 134c Creating DB D:\LAVORI 2026\Click Accademy\ClickAccademy\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/02/20-10:57:46.632 134c Reusing MANIFEST D:\LAVORI 2026\Click Accademy\ClickAccademy\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/02/20-11:00:18.415 266c Reusing MANIFEST D:\LAVORI 2026\Click Accademy\ClickAccademy\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/02/20-11:00:18.417 266c Recovering log #3
+2026/02/20-11:00:18.417 266c Reusing old log D:\LAVORI 2026\Click Accademy\ClickAccademy\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
