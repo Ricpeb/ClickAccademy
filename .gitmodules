@@ -1,8 +1,0 @@
-
-[submodule "Content/FullSample"]
-	path = Content/FullSample
-	url = https://gitlab.com/pasqualemangano/FullSample
-	
-[submodule "Plugins/ascentcombatframework"]
-	path = Plugins/ascentcombatframework
-	url = https://gitlab.com/pasqualemangano/ascentcombatframeworkultimate.git
